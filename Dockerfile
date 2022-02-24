@@ -1,3 +1,3 @@
 FROM ubuntu
 MAINTAINER "ramesh"
-WORKDIR /A/B/C/D
+WORKDIR /A/B/C/D/E
