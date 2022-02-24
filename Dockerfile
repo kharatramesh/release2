@@ -1,2 +1,3 @@
 FROM ubuntu
 MAINTAINER "ramesh"
+WORKDIR /A
