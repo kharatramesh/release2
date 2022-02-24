@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - master
+      - main
 env:
   DOCKER_USERNAME: kharatramesh
   REPO: kharatramesh/sample-app1
