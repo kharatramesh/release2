@@ -4,7 +4,7 @@ on:
       - main
 env:
   DOCKER_USERNAME: kharatramesh
-  REPO: kharatramesh/sample-app1
+  REPO: kharatramesh/sample-app2
 jobs:
   docker:
     runs-on: ubuntu-latest
